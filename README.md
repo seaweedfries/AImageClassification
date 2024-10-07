@@ -1,1 +1,1 @@
-# AImageClassification
+# AI Image Classification
